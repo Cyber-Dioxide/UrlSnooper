@@ -4,7 +4,7 @@ A simple tool like dirb to find hidden directories of a certain URL.
 
 # Usage
 ~ Linux
-* 1. sudo bash install.sh
+* sudo bash install.sh
 * UrlSnooper <wordlist> <url>
 
 ~ Windows
