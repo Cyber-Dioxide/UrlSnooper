@@ -1,5 +1,5 @@
 clear
-sudo cp UrlSnooper /bin/
+apt install golang -y
+cp UrlSnooper /bin/
 printf "Run it with command : UrlSnooper \n"
-sleep 3
-clear
+
