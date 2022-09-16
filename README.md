@@ -9,7 +9,8 @@ A simple tool like dirb to find hidden directories of a certain URL.
 * UrlSnooper <wordlist> <url>
 
 ~ Windows
-* 1. Open cmd
+* 1. Run install.bat as administrator
+* 3. Open cmd and type UrlSnooper
 * 2. UrlSnooper <wordlist> <url>
 
 - No installation of Golang is required, if golang is already installed then run with
