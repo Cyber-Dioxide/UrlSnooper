@@ -2,6 +2,10 @@
 A simple tool like dirb to find hidden directories of a certain URL.
 ![Screenshot (2)](https://user-images.githubusercontent.com/93708296/190460691-0f2b0e31-889e-48e2-9f45-3d907ffbc9a3.png)
 
+# Service
+* Get the 14M passwords list containing worlds mostly used passwords, dm me on instagram @coding_memz.
+* Get the worlds best hacking course, dm me on instagram @coding_memz
+
 # Usage
 ~ Linux
 * chmod +x *
